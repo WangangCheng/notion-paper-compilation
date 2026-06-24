@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion-Paper-Compilation"
+  short_description: "Compile English papers into Chinese Notion notes."
+  default_prompt: "Use $notion-paper-compilation to turn this English paper into a Chinese Notion paper note in the specified workspace."
