@@ -1,0 +1,2 @@
+# notion-paper-compilation
+这是一个利用基于codex和Notion的论文知识库搭建Skill
